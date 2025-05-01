@@ -1,0 +1,42 @@
+[
+    {
+      "category_name": "Dairy, Bread & Eggs",
+      "description": "Fresh dairy products, breads, and eggs",
+      "imageName": "1.png"
+    },
+    {
+      "category_name": "Fruits & Vegetables",
+      "description": "Fresh fruits and vegetables",
+      "imageName": "2.png"
+    },
+    {
+      "category_name": "Cold Drinks & Juices",
+      "description": "Beverages and refreshing drinks",
+      "imageName": "3.png"
+    },
+    {
+      "category_name": "Snacks & Munchies",
+      "description": "Chips, cookies, and quick snacks",
+      "imageName": "4.png"
+    },
+    {
+      "category_name": "Breakfast & Instant Food",
+      "description": "Cereals and ready-to-eat meals",
+      "imageName": "5.png"
+    },
+    {
+      "category_name": "Sweet Tooth",
+      "description": "Candies, chocolates, and desserts",
+      "imageName": "6.png"
+    },
+    {
+      "category_name": "Atta, Rice & Dal",
+      "description": "Grains, flours, and lentils",
+      "imageName": "7.png"
+    },
+    {
+      "category_name": "Home & Office",
+      "description": "Household and office supplies",
+      "imageName": "8.png"
+    }
+  ]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d26"
+  },
+  "category_name": "Dairy, Bread & Eggs",
+  "description": "Fresh dairy products, breads, and eggs",
+  "imageName": "1.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d27"
+  },
+  "category_name": "Fruits & Vegetables",
+  "description": "Fresh fruits and vegetables",
+  "imageName": "2.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d28"
+  },
+  "category_name": "Cold Drinks & Juices",
+  "description": "Beverages and refreshing drinks",
+  "imageName": "3.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d29"
+  },
+  "category_name": "Snacks & Munchies",
+  "description": "Chips, cookies, and quick snacks",
+  "imageName": "4.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d2a"
+  },
+  "category_name": "Breakfast & Instant Food",
+  "description": "Cereals and ready-to-eat meals",
+  "imageName": "5.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d2b"
+  },
+  "category_name": "Sweet Tooth",
+  "description": "Candies, chocolates, and desserts",
+  "imageName": "6.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d2c"
+  },
+  "category_name": "Atta, Rice & Dal",
+  "description": "Grains, flours, and lentils",
+  "imageName": "7.png"
+},
+{
+  "_id": {
+    "$oid": "6812493c041454ee119f8d2d"
+  },
+  "category_name": "Home & Office",
+  "description": "Household and office supplies",
+  "imageName": "8.png"
+}]
